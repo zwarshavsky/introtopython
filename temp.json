@@ -1,0 +1,96 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Toronto",
+                    "short_name": "Toronto",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "University",
+                    "short_name": "University",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Old Toronto",
+                    "short_name": "Old Toronto",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Toronto",
+                    "short_name": "Toronto",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Toronto Division",
+                    "short_name": "Toronto Division",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Ontario",
+                    "short_name": "ON",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Canada",
+                    "short_name": "CA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "M5S",
+                    "short_name": "M5S",
+                    "types": [
+                        "postal_code_prefix",
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Toronto, Toronto, ON M5S, Canada",
+            "geometry": {
+                "location": {
+                    "lat": 43.659598,
+                    "lng": -79.3947916
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 43.66094698029149,
+                        "lng": -79.39344261970851
+                    },
+                    "southwest": {
+                        "lat": 43.65824901970849,
+                        "lng": -79.39614058029152
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJy9EefMc0K4gRV1I5vpHvxGo",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}
